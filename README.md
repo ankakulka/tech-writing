@@ -1,1 +1,1 @@
-# tech-writing
+# my-simple-portfolio
